@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**michaelMondoro/michaelMondoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/michael-mondoro-8b7423151/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?logo=linkedin">
+  </a>
 
-Here are some ideas to get you started:
+  <a href="http://michaelmondoro.com">
+    <img src="https://img.shields.io/badge/Portfolio-Website-red.svg">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.fiverr.com/michael_mondoro">
+    <img src="https://img.shields.io/badge/-Fiverr-darkgreen?logo=fiverr">
+  </a>
+  
+</p>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelMondoro&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=michaelMondoro&theme=tokyonight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelMondoro&theme=tokyonight">
+  
+
